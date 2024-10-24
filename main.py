@@ -172,7 +172,7 @@ async def chat_completions(
         ),
         'stream': True,
         'app_name': 'ChitChat_Edge_Ext',
-        'app_version': '4.23.1',
+        'app_version': '4.26.1',
         'tz_name': 'Asia/Shanghai',
         'cid': '',
         'model': request.model,
